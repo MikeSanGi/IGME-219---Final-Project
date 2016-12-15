@@ -1,11 +1,11 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{4142C74F-FA78-2038-CD83-7D3E237162F7}") = "UnityProject (Latest)", "Assembly-CSharp-firstpass.csproj", "{2FE569BA-C9A5-5851-C804-F522C6889ADA}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityProject (Latest).CSharp.Plugins", "UnityProject (Latest).CSharp.Plugins.csproj", "{12AF511E-9FE8-56E9-7219-2EA537BD2060}"
 EndProject
-Project("{4142C74F-FA78-2038-CD83-7D3E237162F7}") = "UnityProject (Latest)", "Assembly-CSharp.csproj", "{BBA26E25-8FC8-DAF3-3CAA-D27C2C24C18D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityProject (Latest).CSharp", "UnityProject (Latest).CSharp.csproj", "{F4ED4315-AFDB-3818-1340-766B67185120}"
 EndProject
-Project("{4142C74F-FA78-2038-CD83-7D3E237162F7}") = "UnityProject (Latest)", "Assembly-CSharp-Editor-firstpass.csproj", "{65ACF149-3431-BEFD-A9D2-0314F6E865EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityProject (Latest).CSharp.Editor.Plugins", "UnityProject (Latest).CSharp.Editor.Plugins.csproj", "{AF3E5E63-1AC5-1718-53A0-4B77E3B05C46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,40 +13,20 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2FE569BA-C9A5-5851-C804-F522C6889ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2FE569BA-C9A5-5851-C804-F522C6889ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2FE569BA-C9A5-5851-C804-F522C6889ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2FE569BA-C9A5-5851-C804-F522C6889ADA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BBA26E25-8FC8-DAF3-3CAA-D27C2C24C18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BBA26E25-8FC8-DAF3-3CAA-D27C2C24C18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BBA26E25-8FC8-DAF3-3CAA-D27C2C24C18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BBA26E25-8FC8-DAF3-3CAA-D27C2C24C18D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{65ACF149-3431-BEFD-A9D2-0314F6E865EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{65ACF149-3431-BEFD-A9D2-0314F6E865EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{65ACF149-3431-BEFD-A9D2-0314F6E865EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{65ACF149-3431-BEFD-A9D2-0314F6E865EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12AF511E-9FE8-56E9-7219-2EA537BD2060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12AF511E-9FE8-56E9-7219-2EA537BD2060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12AF511E-9FE8-56E9-7219-2EA537BD2060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12AF511E-9FE8-56E9-7219-2EA537BD2060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4ED4315-AFDB-3818-1340-766B67185120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4ED4315-AFDB-3818-1340-766B67185120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4ED4315-AFDB-3818-1340-766B67185120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4ED4315-AFDB-3818-1340-766B67185120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF3E5E63-1AC5-1718-53A0-4B77E3B05C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3E5E63-1AC5-1718-53A0-4B77E3B05C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3E5E63-1AC5-1718-53A0-4B77E3B05C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3E5E63-1AC5-1718-53A0-4B77E3B05C46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-					GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
-		Policies = $0
-		$0.TextStylePolicy = $1
-		$1.inheritsSet = null
-		$1.scope = text/x-csharp
-		$0.CSharpFormattingPolicy = $2
-		$2.inheritsSet = Mono
-		$2.inheritsScope = text/x-csharp
-		$2.scope = text/x-csharp
-		$0.TextStylePolicy = $3
-		$3.FileWidth = 120
-		$3.TabWidth = 4
-		$3.IndentWidth = 4
-		$3.EolMarker = Unix
-		$3.inheritsSet = Mono
-		$3.inheritsScope = text/plain
-		$3.scope = text/plain
-	EndGlobalSection	GlobalSection(MonoDevelopProperties) = preSolution
-
 EndGlobal
