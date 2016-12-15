@@ -5,7 +5,7 @@ Project("{4142C74F-FA78-2038-CD83-7D3E237162F7}") = "UnityProject (Latest)", "As
 EndProject
 Project("{4142C74F-FA78-2038-CD83-7D3E237162F7}") = "UnityProject (Latest)", "Assembly-CSharp.csproj", "{BBA26E25-8FC8-DAF3-3CAA-D27C2C24C18D}"
 EndProject
-Project("{4142C74F-FA78-2038-CD83-7D3E237162F7}") = "UnityProject (Latest)", "Assembly-CSharp-Editor.csproj", "{5D647C99-49C9-A5CC-4D5D-BA93A3E60E8D}"
+Project("{4142C74F-FA78-2038-CD83-7D3E237162F7}") = "UnityProject (Latest)", "Assembly-CSharp-Editor-firstpass.csproj", "{65ACF149-3431-BEFD-A9D2-0314F6E865EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,15 +21,15 @@ Global
 		{BBA26E25-8FC8-DAF3-3CAA-D27C2C24C18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBA26E25-8FC8-DAF3-3CAA-D27C2C24C18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBA26E25-8FC8-DAF3-3CAA-D27C2C24C18D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5D647C99-49C9-A5CC-4D5D-BA93A3E60E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5D647C99-49C9-A5CC-4D5D-BA93A3E60E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5D647C99-49C9-A5CC-4D5D-BA93A3E60E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5D647C99-49C9-A5CC-4D5D-BA93A3E60E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65ACF149-3431-BEFD-A9D2-0314F6E865EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65ACF149-3431-BEFD-A9D2-0314F6E865EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65ACF149-3431-BEFD-A9D2-0314F6E865EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65ACF149-3431-BEFD-A9D2-0314F6E865EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
+			GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
@@ -48,4 +48,5 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
+
 EndGlobal
