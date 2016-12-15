@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/milestone_02.unity
+- path: Assets/Scenes/milestone_04.unity
   isLoaded: 1
   isActive: 1
