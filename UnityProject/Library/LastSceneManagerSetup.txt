@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/milestone_02.unity
-  isLoaded: 1
-  isActive: 1
