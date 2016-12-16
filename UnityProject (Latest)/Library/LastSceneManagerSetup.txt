@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/finalproj.unity
+- path: Assets/Scenes/finalproj_02.unity
   isLoaded: 1
   isActive: 1
